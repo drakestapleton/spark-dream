@@ -1,10 +1,10 @@
 # Contributing to spark-hive
 
-We welcome contributions from sovereign systems engineers and developers passionate about autonomous agent infrastructure.
+I welcome contributions from sovereign systems engineers and developers passionate about autonomous agent infrastructure.
 
 ## Sovereign Principles & Invariants
 
-All contributions must adhere to our engineering invariants:
+All contributions must adhere to my engineering invariants:
 1. **Unslop Standard**: Zero em dashes (`—`) or en dashes (`–`). Use standard punctuation (commas, colons, parentheses, periods). Forbid AI buzzwords ("delve", "tapestry", "game-changer", "beacon").
 2. **Native Performance**: Prioritize native compiled code over interpreted runtimes. Eliminate unnecessary runtime overhead.
 3. **Hardware Key Vault**: Never commit plaintext `.env` files, credentials, or private keys.

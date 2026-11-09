@@ -10,7 +10,7 @@ The following versions of `spark-hive` are currently supported with security upd
 
 ## Reporting a Vulnerability
 
-We take the security of `spark-hive` and sovereign agent infrastructure seriously. If you discover a vulnerability, please report it responsibly rather than opening a public issue.
+I take the security of `spark-hive` and sovereign agent infrastructure seriously. If you discover a vulnerability, please report it responsibly rather than opening a public issue.
 
 ### Reporting Channels
 - **Email**: `aien.atlas@proton.me`
