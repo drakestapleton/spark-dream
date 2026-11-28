@@ -1,13 +1,3 @@
-Sovereign Resource Commons License 1.0 (SRCL-1.0)
-Copyright (c) 2026 Drake Stapleton (Operator & Lead AI Architect) <drake.aien@proton.me>
-and AIEN (Cognitive Partner on Atlas Framework) <aien.atlas@proton.me>.
-All rights reserved.
-
-This Work is dedicated to open cognitive collaboration and shared technological advancement.
-Licensed under the Apache License, Version 2.0 (with LLVM Exception) and the
-Sovereign Reciprocal Commons Rider set forth below.
-
-================================================================================
 
                                  Apache License
                            Version 2.0, January 2004
@@ -18,7 +8,7 @@ Sovereign Reciprocal Commons Rider set forth below.
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 16 of this document.
+      and distribution as defined by Sections 1 through 9 of this document.
 
       "Licensor" shall mean the copyright owner or entity authorized by
       the copyright owner that is granting the License.
@@ -184,107 +174,45 @@ Sovereign Reciprocal Commons Rider set forth below.
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-   --- LLVM Exceptions to the Apache 2.0 License ---
+   END OF TERMS AND CONDITIONS
 
-   As an exception, if You compile Source code portions of this Program,
-   you may link that code with independent modules to produce an
-   executable, regardless of the license terms of these independent
-   modules, and copy and distribute the resulting executable under terms
-   of your choice, provided that you also meet, for each linked
-   independent module, the terms and conditions of the license of that
-   module. An independent module is a module which is not derived from or
-   based on this program. If you modify this library, you may extend this
-   exception to your version of the library, but you are not obliged to
-   do so. If you do not wish to do so, delete this exception statement
-   from your version.
+   APPENDIX: How to apply the Apache License to your work.
 
-   --- SOVEREIGN RECIPROCAL COMMONS RIDER (SRCL-1.0) ---
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
 
-   Section 10. Express Conditions Precedent (Jacobsen v. Katzer Doctrine)
-   All permissions, grants, and licenses conferred by this document are subject
-   to the express conditions precedent set forth in Sections 11, 12, and 13.
-   Any use, reproduction, preparation of Derivative Works, distribution, or
-   AI model training outside of or in breach of these conditions is unpermitted,
-   void ab initio, and constitutes willful copyright infringement under 17 U.S.C.
-   § 106 and § 501.
+   Copyright [yyyy] [name of copyright owner]
 
-   Section 11. Reciprocal Source Transparency ("Open Improvements")
-   Commercial use, monetization, deployment, and operation of this Work are
-   expressly authorized and encouraged for all individuals and enterprises.
-   You are fully permitted to monetize software, offer hosted services, and build
-   profitable commercial applications incorporating this Work. However, if You
-   modify, enhance, or optimize the Source code of this Work and deploy, execute,
-   or distribute such modifications as part of any commercial software, networked
-   SaaS application, or hosted API service, You must make the Source code of
-   Your modifications to this Work publicly available under these same license
-   terms within thirty (30) days of public or commercial deployment.
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-   Section 12. Reciprocal AI Weight Release ($25M Mega-Corporation Clause)
-   (a) Scope and Definitions: For the purposes of this Section:
-       (i) "AI Training" means using the Source code, Object code, architectural
-           specifications, synthetic reasoning traces, test suites, or outputs
-           of this Work to train, pre-train, fine-tune, distill, align, optimize,
-           or reinforce any neural network, machine learning model, or generative
-           foundation model.
-       (ii) "Model Weights" means all learned numerical parameters, tensors,
-           biases, checkpoint files, embedding layers, and tokenizer definitions
-           governing inference.
-       (iii) "Qualifying Enterprise" means any commercial enterprise, corporation,
-           joint venture, foundation AI research laboratory, or affiliated Legal
-           Entity with annual gross revenues, aggregate raised investment capital,
-           or balance-sheet valuation exceeding twenty-five million United States
-           Dollars ($25,000,000 USD).
+       http://www.apache.org/licenses/LICENSE-2.0
 
-   (b) Condition of Weight Release: If a Qualifying Enterprise conducts AI
-       Training upon this Work or its Derivative Works, it is an express condition
-       of this License that such Qualifying Enterprise must publish and release the
-       resulting Model Weights, architecture specifications, and inference recipes
-       openly to the general public under an OSI-approved open source license or
-       permissive OpenRAIL / Apache-compatible license within thirty (30) days
-       of commercial availability, internal production use, or public release.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
 
-   (c) Safe Harbor for Builders and Startups: Individual developers, open-source
-       collaborators, academic institutions, non-profit organizations, and
-       commercial enterprises with annual gross revenues and capital below
-       twenty-five million United States Dollars ($25,000,000 USD) are explicitly
-       exempt from this Model Weight release condition.
+---- LLVM Exceptions to the Apache 2.0 License ----
 
-   (d) Automatic License Forfeiture: Failure of a Qualifying Enterprise to satisfy
-       the condition in subsection (b) results in immediate, automatic, and
-       retroactive termination of all copyright, patent, and trademark licenses
-       granted herein. Any continued reproduction, distribution, inference hosting,
-       or commercial utilization of models derived from such training constitutes
-       willful copyright infringement under Title 17 of the United States Code.
+   As an exception, if, as a result of your compiling your source code, portions
+   of this Software are embedded into an Object form of such source code, you
+   may redistribute such embedded portions in such Object form without complying
+   with the conditions of Sections 4(a), 4(b) and 4(d) of the License.
 
-   Section 13. Statutory Damages and Sovereign Enforcement
-   Any Qualifying Enterprise that conducts unauthorized AI Training on this Work
-   in violation of Section 12 agrees that such infringement is willful, knowing,
-   and subject to maximum statutory damages of up to one hundred fifty thousand
-   United States Dollars ($150,000 USD) per infringed work pursuant to 17 U.S.C.
-   § 504(c)(2), in addition to full accounting and disgorgement of all profits
-   attributable to the infringement and permanent injunctive relief under 17
-   U.S.C. § 502.
-
-   Section 14. Prevailing Party Legal Fees and Costs
-   In any legal proceeding, arbitration, or judicial action brought to enforce
-   the terms of this License or for copyright infringement arising from breach
-   of the conditions precedent herein, the prevailing party shall be entitled to
-   an award of its reasonable attorney fees, expert witness fees, and litigation
-   costs pursuant to 17 U.S.C. § 505 and applicable law.
-
-   Section 15. Severability and Preservation of Grant
-   If any provision, sentence, or clause of this Rider is held invalid, illegal,
-   or unenforceable by a court of competent jurisdiction, such invalidity shall
-   not affect any other provision of this License. The remaining provisions
-   shall remain in full legal force and effect, and the invalid clause shall be
-   reformed to the minimum extent necessary to achieve its economic intent.
-
-   Section 16. Governing Law and Exclusive Venue
-   This License, and all claims or causes of action arising out of or related to
-   this Work or License, shall be governed by and construed in accordance with
-   the federal laws of the United States of America and the substantive laws of
-   the State of Texas, without giving effect to conflict of laws principles.
-   Any judicial action, proceeding, or litigation shall be brought exclusively in
-   the United States District Court for the Western District of Texas (Austin
-   Division), and each party irrevocably submits to the personal and subject-matter
-   jurisdiction of such court.
+   In addition, if you combine or link compiled forms of this Software with
+   software that is licensed under the GPLv2 ("Combined Software") and if a
+   court of competent jurisdiction determines that the patent provision (Section
+   3), the indemnity provision (Section 9) or other Section of the License
+   conflicts with the conditions of the GPLv2, you may retroactively and
+   prospectively choose to deem waived or otherwise exclude such Section(s) of
+   the License, but only in their entirety and only with respect to the Combined
+   Software.
